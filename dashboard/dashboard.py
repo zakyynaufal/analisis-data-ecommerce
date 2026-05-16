@@ -10,7 +10,7 @@ sns.set(style='dark')
 # Load Data
 # =========================
 
-all_df = pd.read_csv("all_data_submission.csv")
+all_df = pd.read_csv("dashboard/all_data_submission.csv")
 
 # =========================
 # Data Preparation
